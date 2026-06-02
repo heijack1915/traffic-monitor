@@ -1,0 +1,5 @@
+[
+  {"name": "流量节点", "ip": "192.168.36.40", "iface": "ens160", "user": "root", "password": "adc123"},
+  {"name": "数据节点", "ip": "192.168.36.76", "iface": "ens160", "user": "root", "password": "adc123"},
+  {"name": "管理节点", "ip": "192.168.36.187", "iface": "ens160", "user": "root", "password": "adc123"}
+]

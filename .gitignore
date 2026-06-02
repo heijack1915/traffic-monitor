@@ -1,0 +1,4 @@
+*.deb
+traffic.db
+__pycache__
+*.pyc
